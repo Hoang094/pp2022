@@ -1,9 +1,3 @@
-"""
-Fields :- ['roll', 'name', 'age','number of courses']
-1. Add New Student
-2. View Students
-3. Quit
-"""
 import csv
 student_fields = ['roll', 'name','ID', 'age', 'number of courses']
 student_database = 'students.csv'
